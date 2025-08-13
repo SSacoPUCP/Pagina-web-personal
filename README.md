@@ -32,4 +32,5 @@ Está diseñado con un enfoque moderno, responsive y optimizado para ofrecer la 
 
 
 ---
-
+## 🧩 Vista
+Link: https://raw.githack.com/SSacoPUCP/Pagina-web-personal/main/index.html
